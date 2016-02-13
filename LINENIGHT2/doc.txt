@@ -1,0 +1,16 @@
+<1>edited in 2016-01-07 04:00pm
+<2>longer the myapp delete time and load time in 2016-01-08 02:09pm
+<3>add backtomain X 4 (avoid of some unknown mistakes while tongbu) in 2016-01-09 01:58am
+<4>change click line app time.fisrt click longer then left in 2016-01-09 03:52pm
+<5>longer the time
+<6>add copyfile action in 2016-01-12 07:32pm
+<7>add grab screen shot function in 2016-01-13 03:42am
+<8>add kill windows fault in 2016-01-14 02:41pm
+<9>remove close adb.exe in 2016-01-14 11:24pm
+<10>add toback action X 6 in loadphonenumbers.sh in 2016-01-15 01:45pm
+<11>edit stopxiaoyao.bat in taskkill /t /im MEmu.exe in 2016-01-19 08:02pm
+<12>add rotate times action in 2016-01-20 06:00am
+<13>change directory from LINENIGHT to LINENIGHT2 in 2016-01-20 09:32pm
+<14>longer the total time to 1110 seconds in 2016-01-22 08:00pm
+<15>edit the click advertisement pointer location in 2016-01-27 02:30am
+<16>edited in 2016-02-02 1:25am

@@ -1,0 +1,3 @@
+@echo off
+python D:\\david\\LINENIGHT\\scripts\\copyfile.py
+pause
